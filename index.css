@@ -1,13 +1,14 @@
 body{
     background-color: white;
-    margin: 0;
-    padding: 0;
+    margin: 0 10%;
+    padding: 10px;
     font-family: 'Montserrat', sans-serif;
     color: black;
   }
 
 .section{
-    border: 1px solid black;
+    border: 2px solid black
+    padding: 10px;
 }
 
 h1, h2{
@@ -16,11 +17,11 @@ h1, h2{
 }
 
 .box{
-    margin: 10px;
+    margin: 10px auto;
     padding: 30px;
     text-align: center;
     display: inline-block;
-    width: 200px;
+    width: 400px;
     height: 300px;
 }
 
