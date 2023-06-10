@@ -37,17 +37,20 @@ body{
 }
 
 .font1{
-    font-family: montserrat;
+    font-family: montserrat,serif;
 }
 .font2{
-    font-family: poppins;
+    font-family: poppins,sans-serif;
 }
 .font3{
-    font-family: 'nunito sans';
+    font-family: 'Nunito Sans',sans-serif;
+}
+.plain{
+    font-style: normal;
 }
 .italic{
     font-style: italic;
 }
 .bold{
-    font-weight: bold;
+    font-weight: 700;
 }
