@@ -6,13 +6,9 @@ body{
   }
 
 .section{
-    border: 2px solid black
+    background-color: white;
+    border: 2px solid black;
     padding: 10px;
-    margin: 10px auto;
-}
-
-h1, h2{
-    position: relative;
     margin: 10px auto;
 }
 
