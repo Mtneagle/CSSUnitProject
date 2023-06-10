@@ -35,3 +35,19 @@ body{
 #grey{
     background-color: #B8B8B8;
 }
+
+.font1{
+    font-family: montserrat;
+}
+.font2{
+    font-family: poppins;
+}
+.font3{
+    font-family: 'nunito sans';
+}
+.italic{
+    font-style: italic;
+}
+.bold{
+    font-weight: bold;
+}
