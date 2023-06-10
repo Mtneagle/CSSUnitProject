@@ -14,6 +14,7 @@ body{
 
 .box{
     margin: 20px auto;
+    padding: 10px;
     text-align: center;
     display: inline-block;
     width: 32%;
@@ -36,6 +37,12 @@ body{
     background-color: #B8B8B8;
 }
 
+.box2{
+    display: inline-block;
+    width: 50%;
+    border: 1px solid grey;
+    margin: 20px auto;
+}
 .font1{
     font-family: montserrat,serif;
 }
